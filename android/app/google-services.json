@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176702486429",
+    "project_id": "official-twitter-ki967",
+    "storage_bucket": "official-twitter-ki967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176702486429:android:ea311edad120565663e174",
+        "android_client_info": {
+          "package_name": "com.example.twitter_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTncLty098AEZrB3R3k4j5w1xPvkCOOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
